@@ -5,7 +5,8 @@ numpy
 pandas
 pillow
 keras
+keras-preprocessing
 pathlib
 matplotlib
 python-resize-image
-keras-preprocessing
+protobuf==3.20.*
